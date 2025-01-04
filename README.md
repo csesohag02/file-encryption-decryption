@@ -53,19 +53,19 @@ Then, select option `2` to encrypt it:
 ```bash
 Enter your choice: 2
 Enter the file to encrypt: example.txt
-Enter the output file name: example.encrypted
-File 'example.txt' encrypted and saved as 'example.encrypted'.
+Enter the output file name: encrypt_example.txt
+File 'example.txt' encrypted and saved as 'encrypt_example.txt'.
 ```
 
 ### 3. Decrypt the File
 To decrypt the file, select option `3` and provide the encrypted file:
 ```bash
 Enter your choice: 3
-Enter the file to decrypt: example.encrypted
-Enter the output file name: example_decrypted.txt
-File 'example.encrypted' decrypted and saved as 'example_decrypted.txt'.
+Enter the file to decrypt: encrypt_example.txt
+Enter the output file name: decrypt_example.txt
+File 'encrypt_example.txt' decrypted and saved as 'decrypt_example.txt'.
 ```
-The decrypted file `example_decrypted.txt` will contain the original content:
+The decrypted file `decrypt_example.txt` will contain the original content:
 ```
 Hello, this is a test file for encryption.
 ```
