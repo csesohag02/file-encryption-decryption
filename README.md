@@ -56,6 +56,10 @@ Enter the file to encrypt: example.txt
 Enter the output file name: encrypt_example.txt
 File 'example.txt' encrypted and saved as 'encrypt_example.txt'.
 ```
+The encrypted file `encrypt_example.txt` will contain like this:
+```
+gAAAAABneVxJ3-yHfj7S39-1xkmJ_Zslq-MPbeweRPwHrnDBFtRDmRy1ocnsaIx5bzBs1nRcJkYrJS9a4hHk8JKDSirxUkOShjhgZflWLgaijomFqVxy_Oo5lEQbUSozqPeNK0tZaACh
+```
 
 ### 3. Decrypt the File
 To decrypt the file, select option `3` and provide the encrypted file:
