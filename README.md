@@ -43,6 +43,10 @@ Run the script and select option `1` to generate a key:
 Enter your choice: 1
 Key generated and saved as 'key.key'.
 ```
+The key file `key.key` will contain key like this:
+```
+iLpV7DhSETEJcU7zxTEtzl6KywYp5OZl8RxhENGDdew=
+```
 
 ### 2. Encrypt a File
 Prepare a text file named `example.txt` with the following content:
